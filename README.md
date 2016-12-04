@@ -1,2 +1,4 @@
 # mycss
-diy css for myself
+
+wing是一个非常轻量的纯css框架，使用起来也非常简单。
+但是感觉wing的样式有些不合心意，便略加修改，以便在一些小页面上使用。
