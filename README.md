@@ -7,7 +7,9 @@ wing是一个非常轻量的纯css框架，使用起来也非常简单。
 
 具体改动的地方有：
 1、去除了body的margin
+
 2、去除了h1-h6的margin
+
 3、添加了container-fluid类，
 ```
 .container-fluid{
