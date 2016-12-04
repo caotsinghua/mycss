@@ -6,6 +6,7 @@ wing是一个非常轻量的纯css框架，使用起来也非常简单。
 
 
 具体改动的地方有：
+
 1、去除了body的margin
 
 2、去除了h1-h6的margin
@@ -20,7 +21,10 @@ wing是一个非常轻量的纯css框架，使用起来也非常简单。
 ```
 
 4、把btn-outline-inverted的类名改成btn-outline，去除了原本的btn-outline。所以这里只有两种button样式
+
 5、改变了a的颜色和hover
+
 6、增加了clearfix类，代码参照bootstrap
+
 
 ps：如以后有自己的需求再自行添加
